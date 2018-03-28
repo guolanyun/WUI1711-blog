@@ -1,0 +1,2 @@
+前台：http://glywui1711.duapp.com/php/yanzh/index/index.php
+后台：http://glywui1711.duapp.com/php/yanzh/admin/main.php
